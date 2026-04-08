@@ -3,8 +3,8 @@
 <p>
 💻 <b>Fullstack Developer</b> passionate about building automation tools, web applications and reliable systems.<br>
 ⚙️ I enjoy creating solutions that improve workflows, infrastructure and developer productivity.<br>
-🧠 Developer at <b>Melius Software</b> working with automation<br>
-🛠️ Developer at <b>OnfireGroup</b> working with servers and fullstack systems
+🧠 Worked on <b>Melius Software</b> working with automation<br>
+🛠️ Worked on <b>OnfireGroup</b> working with servers and fullstack systems
 </p>
 
 ---
