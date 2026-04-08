@@ -1,6 +1,6 @@
-<h2 align="center">Hey 👋 I'm Gabe</h2>
+<h2 align="center">Hey ☕ I'm Gabe 🐱​👨🏽‍💻​</h2>
 
-<p align="center">
+<p>
 💻 <b>Fullstack Developer</b> passionate about building automation tools, web applications and reliable systems.<br>
 ⚙️ I enjoy creating solutions that improve workflows, infrastructure and developer productivity.
 </p>
