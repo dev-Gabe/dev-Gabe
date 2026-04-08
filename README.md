@@ -16,7 +16,7 @@
 ### ⚒️ Tech
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,js,react,vue,angular,html,css,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,js,react,vue,angular,html,css, &theme=dark" />
 </p>
 
 ---
