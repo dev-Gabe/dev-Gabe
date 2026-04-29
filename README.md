@@ -12,7 +12,7 @@
 ### ⚒️ Tech
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,js,react,vue,angular,laravel,python,mysql,html,css,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,php,js,react,angular,python,mysql,html,css&theme=dark" />
 </p>
 
 ---
